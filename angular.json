@@ -24,7 +24,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/lipo",
+            "outputPath": "dist/lipo/browser",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -34,12 +34,15 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/manifest.webmanifest"
             ],
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "serviceWorker": true,
+            "ngswConfigPath": "ngsw-config.json"
           },
           "configurations": {
             "production": {
@@ -97,13 +100,69 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/manifest.webmanifest"
             ],
             "styles": [
               "src/styles.scss"
             ],
             "scripts": []
           }
+        },
+        "server": {
+          "builder": "@angular-devkit/build-angular:server",
+          "options": {
+            "outputPath": "dist/lipo/server",
+            "main": "server.ts",
+            "tsConfig": "tsconfig.server.json",
+            "inlineStyleLanguage": "scss"
+          },
+          "configurations": {
+            "production": {
+              "outputHashing": "media"
+            },
+            "development": {
+              "buildOptimizer": false,
+              "optimization": false,
+              "sourceMap": true,
+              "extractLicenses": false,
+              "vendorChunk": true
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "serve-ssr": {
+          "builder": "@nguniversal/builders:ssr-dev-server",
+          "configurations": {
+            "development": {
+              "browserTarget": "lipo:build:development",
+              "serverTarget": "lipo:server:development"
+            },
+            "production": {
+              "browserTarget": "lipo:build:production",
+              "serverTarget": "lipo:server:production"
+            }
+          },
+          "defaultConfiguration": "development"
+        },
+        "prerender": {
+          "builder": "@nguniversal/builders:prerender",
+          "options": {
+            "routes": [
+              "/"
+            ]
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "lipo:build:production",
+              "serverTarget": "lipo:server:production"
+            },
+            "development": {
+              "browserTarget": "lipo:build:development",
+              "serverTarget": "lipo:server:development"
+            }
+          },
+          "defaultConfiguration": "production"
         }
       }
     }

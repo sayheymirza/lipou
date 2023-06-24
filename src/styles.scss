@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 767px) {
+  html,
+  body {
+    overflow: hidden;
+  }
+}
+
+body {
+  font-family: "iransansdnweb", Tahoma;
+}
+
+// import font from /assets/fonts/iransansdnweb.woff2
+@font-face {
+  font-family: "iransansdnweb";
+  src: url("./assets/fonts/iransansdnweb.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}

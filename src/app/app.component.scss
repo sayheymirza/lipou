@@ -1,0 +1,55 @@
+div.h-screen {
+  header div::before {
+    content: "";
+
+    display: block;
+
+    position: absolute;
+
+    inset: 0;
+
+    background: #f3c617;
+
+    box-shadow: 0 0 10px 15px #f3c617;
+
+    z-index: -1;
+  }
+
+  @media (min-width: 768px) {
+    &::before {
+      content: "";
+
+      position: absolute;
+
+      inset: 0;
+
+      background-image: url("/assets/images/pattern.png");
+      background-size: 320px;
+      background-repeat: repeat;
+
+      z-index: -1;
+
+      opacity: 0.2;
+
+      transition: all 0.2s;
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  :host::before {
+    content: "";
+
+    position: absolute;
+
+    inset: 0;
+
+    background-image: url("/assets/images/pattern.png");
+    background-size: 320px;
+    background-repeat: repeat;
+
+    opacity: 0.2;
+
+    transition: all 0.2s;
+  }
+}
