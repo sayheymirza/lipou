@@ -730,29 +730,11 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 108110,
-      "name": "بندری ساده نان سنتی",
-      "price": 42750,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/qazvin/108110.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124478,
       "name": "بندری ساده نان باگت ویژه",
       "price": 52250,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 108111,
-      "name": "بندری قارچ پنیر نان سنتی",
-      "price": 61750,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/qazvin/108111.jpg",
       "category": "ساندویچ",
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
@@ -766,27 +748,9 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 108112,
-      "name": "فلافل ساده نان سنتی",
-      "price": 38000,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/qazvin/108112.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124488,
       "name": "فلافل ساده نان باگت ویژه",
       "price": 42750,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 108113,
-      "name": "فلافل قارچ و پنیر نان سنتی",
-      "price": 57000,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
       "category": "ساندویچ",
@@ -802,27 +766,9 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 108114,
-      "name": "هات داگ ساده نان سنتی",
-      "price": 57000,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124484,
       "name": "هات داگ ساده نان باگت ویژه",
       "price": 57000,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 108115,
-      "name": "هات داگ دوبل نان سنتی",
-      "price": 71250,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
       "category": "ساندویچ",
@@ -838,27 +784,9 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 124486,
-      "name": "هات داگ قارچ و پنیر نان سنتی",
-      "price": 71250,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124487,
       "name": "هات داگ قارچ و پنیر نان باگت ویژه",
       "price": 76000,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 124480,
-      "name": "ماکارونی ساده نان سنتی",
-      "price": 38000,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
       "category": "ساندویچ",
@@ -874,27 +802,9 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 124482,
-      "name": "ماکارونی قارچ و پنیر نان سنتی",
-      "price": 57000,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124483,
       "name": "ماکارونی قارچ و پنیر نان باگت ویژه",
       "price": 61750,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 124490,
-      "name": "سوسیس سیب زمینی ساده نان سنتی",
-      "price": 42750,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
       "category": "ساندویچ",
@@ -910,27 +820,9 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 124492,
-      "name": "سوسیس سیب زمینی قارچ و پنیر نان سنتی",
-      "price": 61750,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124493,
       "name": "سوسیس سیب زمینی قارچ و پنیر نان باگت ویژه",
       "price": 66500,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 124494,
-      "name": "جگر ساده نان سنتی",
-      "price": 47500,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
       "category": "ساندویچ",
@@ -946,27 +838,9 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 124497,
-      "name": "جگر قارچ و پنیر نان سنتی",
-      "price": 66500,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124498,
       "name": "جگر قارچ و پنیر نان باگت ویژه",
       "price": 71250,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 124499,
-      "name": "جگر بندری نان سنتی",
-      "price": 57000,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
       "category": "ساندویچ",
@@ -982,27 +856,9 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 124501,
-      "name": "مرغ ساده نان سنتی",
-      "price": 85500,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124502,
       "name": "مرغ ساده نان باگت ویژه",
       "price": 90250,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 124503,
-      "name": "مرغ قارچ و پنیر نان سنتی",
-      "price": 104500,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
       "category": "ساندویچ",
@@ -1018,27 +874,9 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 124505,
-      "name": "زبان ساده نان سنتی",
-      "price": 114000,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124506,
       "name": "زبان ساده نان باگت ویژه",
       "price": 118750,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 124507,
-      "name": "زبان قارچ و پنیر نان سنتی",
-      "price": 133000,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
       "category": "ساندویچ",
@@ -1054,27 +892,9 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 124509,
-      "name": "گوشت رست بیف نان سنتی",
-      "price": 133000,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124510,
       "name": "گوشت رست بیف نان باگت ویژه",
       "price": 137750,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 124511,
-      "name": "گوشت رست بیف قارچ و پنیر نان سنتی",
-      "price": 152000,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
       "category": "ساندویچ",
@@ -1090,15 +910,6 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 124513,
-      "name": "ژامبون میکس سرد نان سنتی",
-      "price": 61750,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124514,
       "name": "ژامبون میکس سرد نان باگت ویژه",
       "price": 66500,
@@ -1108,29 +919,11 @@
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
     {
-      "id": 108109,
-      "name": "ژامبون تنوری ساده نان سنتی",
-      "price": 66500,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/qazvin/108109.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
       "id": 124516,
       "name": "ژامبون تنوری ساده نان باگت ویژه",
       "price": 71250,
       "description": "",
       "thumbnail": "https://qazvinfood.com/images/imagefood/default.jpg",
-      "category": "ساندویچ",
-      "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
-    },
-    {
-      "id": 108108,
-      "name": "ژامبوویچ نان سنتی",
-      "price": 85500,
-      "description": "",
-      "thumbnail": "https://qazvinfood.com/images/imagefood/qazvin/108108.jpg",
       "category": "ساندویچ",
       "link": "https://qazvinfood.com/menu/814/پیتزا-لیپو"
     },
